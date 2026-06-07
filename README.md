@@ -73,8 +73,8 @@ The detailed construction pipeline, patch sampling strategy, geographic distribu
 
 **Baidu Cloud:**
 
-* Dataset: [Link]
-* Extraction code: `[XXXX]`
+* Dataset: [Link](https://pan.baidu.com/s/10fUtXDAyUT6eqpVb0RhPTA?pwd=t8kg)
+* Extraction code: `t8kg`
 
 A **Zenodo mirror with DOI** will be released upon acceptance of the paper.
 
@@ -92,8 +92,8 @@ We provide the pretrained weights of the proposed **Remote Sensing Image Encoder
 
 **Baidu Cloud:**
 
-* Weights: [Link]
-* Extraction code: `[XXXX]`
+* Weights: [Link](https://pan.baidu.com/s/1YiMCdILiPW6l42eDWjL7rQ?pwd=hxbf)
+* Extraction code: `hxbf`
 
 A **Zenodo mirror with DOI** will be released upon acceptance of the paper.
 
