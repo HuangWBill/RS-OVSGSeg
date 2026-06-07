@@ -39,7 +39,7 @@ The main contributions of this work include:
 ## Framework
 
 <p align="center">
-  <img src="./figures/framework.png" width="95%">
+  <img src="./figures/framework.jpg" width="95%">
 </p>
 
 **Figure:** Overall architecture of the proposed RS-OVSGSeg framework.
