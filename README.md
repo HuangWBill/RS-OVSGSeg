@@ -1,8 +1,24 @@
-# RS-OVSGSeg
+<div align="center">
 
-Official repository for the paper:
+<h1>Enhancing Scene Generalization for Open-Vocabulary Remote Sensing Segmentation via Semantic–Structural Collaboration</h1>
 
-**Enhancing Scene Generalization for Open-Vocabulary Remote Sensing Segmentation via Semantic–Structural Collaboration**
+<div>
+    <h3><strong>RS-OVSGSeg</strong></h3>
+</div>
+
+<div>
+    <strong>Wubiao Huang</strong>, Huchen Li, Shuai Zhang, Zizhen Chen, Haibing Liu, Shihan Chen, Fei Deng*
+</div>
+
+<div>
+    <h4 align="center">
+        This repository is an official implementation of  RS-OVSGSeg
+    </h4>
+</div>
+
+</div>
+
+___________
 
 ## Overview
 
@@ -23,7 +39,7 @@ The main contributions of this work include:
 ## Framework
 
 <p align="center">
-  <img src="./docs/framework.png" width="95%">
+  <img src="./figures/framework.png" width="95%">
 </p>
 
 **Figure:** Overall architecture of the proposed RS-OVSGSeg framework.
@@ -87,37 +103,16 @@ The complete training and inference code is currently being organized and docume
 
 The source code will be **publicly released immediately upon acceptance** of the paper.
 
-The released code will include:
-
-* training scripts,
-* inference scripts,
-* configuration files,
-* evaluation protocols,
-* pretrained checkpoints,
-* instructions for reproducing the reported results.
-
-## Reproducibility Statement
-
-To ensure reproducibility:
-
-* The **USGMS-100K dataset** has been publicly released;
-* The **pretrained RSIE weights** are publicly available;
-* The complete **training and inference code** will be released upon acceptance;
-* A **Zenodo DOI** will be provided for long-term accessibility.
-
-## Citation
-
 ## Acknowledgements
 
 USGMS-100K is constructed based on several publicly available datasets. We sincerely thank the authors of the following datasets for making their data available to the research community:
 
-* OpenEarthMap;
-* EvLab-SS;
-* CASID;
-* DIOR.
+* [OpenEarthMap](https://open-earth-map.org/overview_oem.html);
+* [EvLab-SS](https://github.com/EarthVisionLab/EVLab-SS-dataset);
+* [CASID](https://github.com/Linwei-Chen/CASID);
+* [DIOR](https://gcheng-nwpu.github.io/#Datasets).
 
 Users of USGMS-100K should comply with the licenses and usage policies of the original datasets.
-
 
 ## Contact
 
@@ -125,9 +120,9 @@ If you have any questions regarding this work, please feel free to open an issue
 
 For academic inquiries, please contact:
 
-**Bill Huang**
+**Wubiao Huang**
 
-E-mail: `[your email address]`
+E-mail: `huangwubiao@whu.edu.cn`
 
 ---
 
